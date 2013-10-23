@@ -1,0 +1,13 @@
+E:\Visual projects\FunHub\FunHub\FunHub\bin\Debug\resources.pri
+E:\Visual projects\FunHub\FunHub\FunHub\bin\Debug\AppxManifest.xml
+E:\Visual projects\FunHub\FunHub\FunHub\bin\Debug\FunHub.build.appxrecipe
+E:\Visual projects\FunHub\FunHub\FunHub\bld\Debug\priconfig.xml.intermediate
+E:\Visual projects\FunHub\FunHub\FunHub\bld\Debug\layout.resfiles.intermediate
+E:\Visual projects\FunHub\FunHub\FunHub\bld\Debug\resources.resfiles.intermediate
+E:\Visual projects\FunHub\FunHub\FunHub\bld\Debug\pri.resfiles.intermediate
+E:\Visual projects\FunHub\FunHub\FunHub\bld\Debug\priconfig.xml
+E:\Visual projects\FunHub\FunHub\FunHub\bld\Debug\layout.resfiles
+E:\Visual projects\FunHub\FunHub\FunHub\bld\Debug\resources.resfiles
+E:\Visual projects\FunHub\FunHub\FunHub\bld\Debug\pri.resfiles
+E:\Visual projects\FunHub\FunHub\FunHub\bld\Debug\LanguageQualifiers.txt
+E:\Visual projects\FunHub\FunHub\FunHub\bld\Debug\ProjectArchitectures.txt
